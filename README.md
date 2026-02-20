@@ -4,7 +4,7 @@ Sentiment Analysis of Amazon Reviews Using Classical NLP and Neural Networks
 
 # Overview
 
-This project compares traditional natural language processing techniques (Bag-of-Words and TF-IDF) with a neural network approach for sentiment classification on Amazon reviews. The goal is to evaluate whether deep learning provides meaningful improvements over classical models.
+This project compares natural language processing techniques (Bag-of-Words and TF-IDF) with a neural network approach for sentiment classification on Amazon reviews. My goal is to find whether deep learning provides meaningful improvements over classical models.
 
 # Methods
 
@@ -12,21 +12,15 @@ Logistic Regression with Bag-of-Words
 
 Logistic Regression with TF-IDF
 
-Feedforward Neural Network (PyTorch)
+Neural Network 
 
 # Key Results
 
-Classical models achieved ~93% accuracy, performing comparably to the neural network while requiring significantly less computational complexity.
+Classical models achieved ~93% accuracy. It had a similar outcome to the neural network while requiring less complexity.
 
 # How to Run
 
-Install dependencies:
-
-pip install -r requirements.txt
-
-Open notebooks/main_analysis.ipynb
-
-Run all cells.
+Open 593Portfolio1.ipynb and run all cells
 
 # Requirements
 
@@ -46,20 +40,6 @@ Python, pandas, numpy, sklearn, pytorch, matplotlib, seaborn, gensim
 
 
 
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/brKTKdOU)
-# Portfolio Piece Assignment
-
-This repository is a template for your portfolio piece. You'll build on your weekly labs to create a polished, well-documented project that demonstrates your understanding of the concepts we've covered.
-
-## What You're Building
-
-Your portfolio piece could be a Jupyter notebook (or set of notebooks), or another reporting format (PDF with embedded images, etc.) that:
-- Demonstrates understanding of course concepts
-- Includes working, well-documented code (in notebooks or imported scripts)
-- Analyzes results critically
-- Tells a clear story from problem/question to approach to results and insights
-
-If you'd like, this can become part of your professional portfolio, so treat it as work you'd be proud to show a potential employer or collaborator.
 
 ## Grading
 
@@ -89,18 +69,6 @@ your-portfolio-piece/
 
 **About data**: If your dataset is small (<10 MB), you can include it in the repo. For larger datasets, put instructions in your README for how to download/access it, and add data files to `.gitignore`.
 
-## Writing a Good README
-
-Once you've completed your project, update this README to include:
-
-1. **Project Title** - make it descriptive
-2. **Overview** - 2-3 sentences: what problem are you solving and why?
-3. **Methods** - what approaches did you use? Why these choices?
-4. **Key Results** - what did you find? (keep it brief, details go in the notebook)
-5. **How to Run** - step-by-step instructions so someone can reproduce your work
-6. **Requirements** - what packages/versions are needed?
-
-Your README should make it easy for someone to understand what you did and run your code.
 
 ## Peer Review Process
 
@@ -125,6 +93,3 @@ You are *not* grading each other's pieces, just providing feedback.
 - **Friday, Feb 20**: Portfolio piece due (push your final version to this repo)
 - **Friday, Feb 27**: Peer reviews due (submit PRs with feedback to your assigned classmates' repos)
 
-## Questions?
-
-We can discuss more in class, in office hours, in discussion, and you can ask on Piazza.
