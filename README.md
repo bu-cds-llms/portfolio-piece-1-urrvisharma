@@ -1,3 +1,51 @@
+# Project 
+
+Sentiment Analysis of Amazon Reviews Using Classical NLP and Neural Networks
+
+# Overview
+
+This project compares traditional natural language processing techniques (Bag-of-Words and TF-IDF) with a neural network approach for sentiment classification on Amazon reviews. The goal is to evaluate whether deep learning provides meaningful improvements over classical models.
+
+# Methods
+
+Logistic Regression with Bag-of-Words
+
+Logistic Regression with TF-IDF
+
+Feedforward Neural Network (PyTorch)
+
+# Key Results
+
+Classical models achieved ~93% accuracy, performing comparably to the neural network while requiring significantly less computational complexity.
+
+# How to Run
+
+Install dependencies:
+
+pip install -r requirements.txt
+
+Open notebooks/main_analysis.ipynb
+
+Run all cells.
+
+# Requirements
+
+Python, pandas, numpy, sklearn, pytorch, matplotlib, seaborn, gensim
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 [![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/brKTKdOU)
 # Portfolio Piece Assignment
 
