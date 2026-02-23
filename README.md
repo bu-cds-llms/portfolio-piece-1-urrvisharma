@@ -26,6 +26,8 @@ Open 593Portfolio1.ipynb and run all cells
 
 Python, pandas, numpy, sklearn, pytorch, matplotlib, seaborn, gensim
 
+Enjoy!
+
 
 
 
